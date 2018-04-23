@@ -1,5 +1,5 @@
-If you are interested in filing a request for access to the Accelerate With Optane performance  test and 
-analysis infrastructure, please fill out the details below, or contact Avi Deitcher at avi@packet.net with questions.
+If you are interested in filing a request for access to the Accelerate With Optane performance test and 
+analysis Community Lab, please fill out the details below, or contact Avi Deitcher at avi@packet.net with questions.
 
 If you are just making a comment, ignore/delete those fields and file your issue.
 
