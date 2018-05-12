@@ -29,9 +29,9 @@ Brag a little bit about yourself, please!
 
 ### Would you be willing to share your analysis and results publicly? 
 
-We are interested in blog posts, meetups and conference presentations. AccelerateWithOptane would be more than happy to host your blog posts or link to them, and may coordinate performance-oriented meetups and conferences. Are you open to sharing?
+We are interested in blog posts, meetups and conference presentations. Accelerate With Optane would be more than happy to host your blog posts or link to them, and may coordinate performance-oriented meetups and conferences. Are you open to sharing?
 
-### Are you interested in testing Optane SSDs with Intel Memory Drive Technology (IMDT)?
+### Are you interested in testing Intel Optane SSDs with Intel Memory Drive Technology (IMDT)?
 
-IMDT extends system memory transparently by integrating Optane SSD capacity into the memory subsystem, effectively expanding your memory pool beyond system DRAM capacities at a much lower cost. Check [here](https://www.intel.com/content/www/us/en/solid-state-drives/optane-ssd-dc-p4800x-mdt-brief.html) for more information.  
+IMDT extends system memory transparently by integrating Intel Optane SSD capacity into the memory subsystem, effectively expanding your memory pool beyond system DRAM capacities at a much lower cost. Check [here](https://www.intel.com/content/www/us/en/solid-state-drives/optane-ssd-dc-p4800x-mdt-brief.html) for more information.  
 
