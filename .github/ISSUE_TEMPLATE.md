@@ -42,6 +42,6 @@ If you are interested in filing a request for access to the Accelerate With Opta
 
 ### Are you interested in testing Intel Optane SSDs with Intel Memory Drive Technology (IMDT)?
 
-*IMDT extends system memory transparently by integrating Intel Optane SSD capacity into the memory subsystem. The systems provided have 192GB of DRAM but can be enabled with 1.47TB of software-defined memory while leaving one Intel Optane SSD still available for fast storage/caching usage. Check [here](https://www.intel.com/content/www/us/en/solid-state-drives/optane-ssd-dc-p4800x-mdt-brief.html) for more information on IMDT.*
+*IMDT extends system memory transparently by integrating Intel Optane SSD capacity into the memory subsystem. The systems provided have 192GB of DRAM but can be enabled with 1.4TB of software-defined memory while leaving one Intel Optane SSD still available for fast storage/caching usage. Check [here](https://www.intel.com/content/www/us/en/solid-state-drives/optane-ssd-dc-p4800x-mdt-brief.html) for more information on IMDT.*
 
 
