@@ -5,6 +5,6 @@ The [Accelerate With Optane](https://www.acceleratewithoptane.com/) team provide
 
 The Accelerate With Optane Community Lab is managed by New York City-based Packet, a leading bare metal cloud provider, as part of its commitment to making it easier for online innovators to succeed with infrastructure that pushes the envelope of performance and value for their users. Funding for the systems is provided by Intel. The resources are primarily located in Packet's EWR1 (New York City area) data center.
 
-Apply to use the Accelerate With Optane Community Lab by [creating an issue](https://github.com/AccelerateWithOptane/lab/issues/new) in this repository. Contact avi@packet.net (Avi Deitcher, Accelerate With Optane program manager) for any questions.
+Apply to use the Accelerate With Optane Community Lab by [creating an issue](https://github.com/AccelerateWithOptane/lab/issues/new) in this repository. Contact avi@packet.com (Avi Deitcher, Accelerate With Optane program manager) for any questions.
 
 Request access and then get started! 
